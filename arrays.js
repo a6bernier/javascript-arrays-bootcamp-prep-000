@@ -24,3 +24,5 @@ function accessElementInArray (array, index) {
   var NewArray = [1, 2, 3]
   return NewArray[2]
 }
+
+function de
