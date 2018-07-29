@@ -22,5 +22,5 @@ function destructivelyAddElementToEndOfArray (array, element) {
 
 function accessElementInArray (array, index) { 
   var NewArray = [1, 2, 3]
-  return Mewarray[2]
+  return NewArray[2]
 }
