@@ -22,3 +22,5 @@ function destructivelyAddElementToEndOfArray (array, element) {
 
 function accessElementInArray (array, index) { 
   const newArray = [1, 2, 3]
+  console.log(newArray[2])
+}
