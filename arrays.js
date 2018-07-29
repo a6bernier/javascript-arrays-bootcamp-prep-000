@@ -21,5 +21,4 @@ function destructivelyAddElementToEndOfArray (array, element) {
 }
 
 function accessElementInArray (array, index) { 
-  const newArray = {[nsole.log(chocolateBars[index])
-}
+  const newArray = [1, 2, 3]
