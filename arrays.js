@@ -21,6 +21,6 @@ function destructivelyAddElementToEndOfArray (array, element) {
 }
 
 function accessElementInArray (array, index) { 
-  var cats = [array, index]
+  var array = [array, index]
   return (index)
 }
