@@ -22,5 +22,5 @@ function destructivelyAddElementToEndOfArray (array, element) {
 
 function accessElementInArray (array, index) { 
   var cats = [array, index]
-  console.log(cats[array])
+  return (index)
 }
