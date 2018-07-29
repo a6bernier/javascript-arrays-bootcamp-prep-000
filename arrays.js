@@ -21,6 +21,6 @@ function destructivelyAddElementToEndOfArray (array, element) {
 }
 
 function accessElementInArray (array, element) { 
-  const array = ["floyd"]
+  var chocolateBars = (array, element)
   console.log(newArray[index])
 }
